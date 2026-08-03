@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Vigilab</title>
+    <link href="https://monck2006.github.io/Vigilab/feed.xml" rel="self" />
+    <link href="https://monck2006.github.io/Vigilab" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>Monck</name>
+    </author>
+    <id>https://monck2006.github.io/Vigilab</id>
+
+</feed>
